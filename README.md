@@ -62,8 +62,8 @@ Predicting students' exam scores from study habits, family background and school
 Requires Python 3.11 or newer.
 
 ```bash
-git clone https://github.com/Tanvir-h-simon/student-performance-analysis.git
-cd student-performance-analysis
+git clone https://github.com/Tanvir-h-simon/Student-Performance-Analysis.git
+cd Student-Performance-Analysis
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows
