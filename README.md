@@ -80,6 +80,10 @@ python app.py
 
 Then open http://127.0.0.1:7860. While editing the UI, `gradio app.py` reloads the app automatically on every save.
 
+### Hugging Face
+
+https://huggingface.co/spaces/Tanvir-H-Simon/student-performance-predictor
+
 ### Retrain the model
 
 Open `notebooks/Student_performance_factors.ipynb` and run all cells. The last cell saves the trained pipeline to `models/best_model.pkl`, which the app loads.
