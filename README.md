@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Predictor
 
 Predicting students' exam scores from study habits, family background and school environment, and finding out which factors actually matter.
 
